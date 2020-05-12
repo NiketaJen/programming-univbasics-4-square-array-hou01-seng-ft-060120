@@ -5,6 +5,6 @@ def square_array(numbers)
   while counter < array.length do
    new_array.push (numbers[counter]**2) 
 counter += 1
-  new_array
 end
+new_array
 end
